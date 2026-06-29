@@ -12,7 +12,7 @@ if __name__ == '__main__':
 
     k = int(input())
     
-    # my code start here 'v')/
+    # my code starts here 'v')/
     some_dict = {}
     
     for i in range(n):
