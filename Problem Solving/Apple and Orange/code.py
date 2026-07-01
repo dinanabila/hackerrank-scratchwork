@@ -1,14 +1,3 @@
-#!/bin/python3
-
-import math
-import os
-import random
-import re
-import sys
-
-#
-# Complete the 'countApplesAndOranges' function below.
-#
 # The function accepts following parameters:
 #  1. INTEGER s
 #  2. INTEGER t
